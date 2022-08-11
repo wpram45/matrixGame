@@ -1,29 +1,37 @@
 {
   "expo": {
-    "name": "matrixGame",
+    "name": "Matrix Game",
     "slug": "matrixGame",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
       "image": "./assets/splash.png",
-      "resizeMode": "contain",
+      "resizeMode": "cover",
       "backgroundColor": "#ffffff"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
     "android": {
+      "permissions": [
+        "WRITE_EXTERNAL_STORAGE",
+        "READ_PHONE_STATE",
+        "READ_PHONE_STATE"
+      ],
+      "versionCode": 1,
+      "config": {
+        "googleMobileAdsAppId": "ca-app-pub-5739852459663882~7817224735"
+      },
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.howl.matrixgame"
     },
     "web": {
       "favicon": "./assets/favicon.png"
