@@ -2,4 +2,4 @@
 
 
 
-Project Developer-> |GÜNDOĞDU| ŞERİF GEYİK| A.DAVIDSON_ <-Project Developer
+Project Developer-> |GÜNDOĞDU| ŞERİF GEYİK| A.DAVIDSON| <-Project Developer
