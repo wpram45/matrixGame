@@ -17,7 +17,7 @@ const levels = [
     locked: true,
     hint: "An important official of a shire or county charged primarily with judicial duties.Delete redundant 'f' last 'f'",
     questionText:
-      "What is the name of the PRINCE OF  GOD [“Prince Of Peace”, “Prince Of Princes”] ?",
+      "What is the name of the PRINCE OF  GOD [“Prince Of Peace”, “Last Wielder”] ?",
   },
   {
     name: "Elif Lâm Mîm",
